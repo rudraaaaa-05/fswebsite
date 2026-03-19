@@ -25,9 +25,10 @@ A collaborative platform for students to share and access study materials.
 
 ## Local Development
 
-1. Clone the repository
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/RudraAmbike/fswebsite.git
+git clone https://github.com/rudraaaaa-05/fswebsite.git
 cd fswebsite
 ```
 
